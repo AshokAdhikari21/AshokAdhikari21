@@ -27,9 +27,8 @@
 ---
 
 ## 🛠 Tech Stack  
-- **GIS & Remote Sensing:** Google Earth Engine, ArcGIS, QGIS  
-- **Programming:** Python, JavaScript, HTML/CSS (Basic) 
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **GIS & Remote Sensing:** Google Earth Engine, ArcGIS, QGIS, Envi
+- **Programming:** Python(Pandas, NumPy, Scikit-learn, Matplotlib ), JavaScript, HTML/CSS (Basic) 
 - **Others:** Git, Jupyter Notebook  
 
 ---
@@ -48,7 +47,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://ashokadhikari.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:ashokadhikari@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ashokadhikari076@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
