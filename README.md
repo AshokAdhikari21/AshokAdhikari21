@@ -1,51 +1,61 @@
-## Hi, I'm Ashok 👋
-**Geomatics Engineer | GIS & Remote Sensing | Python & Google Earth Engine**
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Ashok Adhikari</h1>
+<h3 align="center">Geomatics Engineer | GIS & Remote Sensing | Data Science</h3>
 
-
-## 🌐 Connect with me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://www.instagram.com/ashok__adhikari/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AshokAdhikari21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://ashokadhikari.netlify.app/)
-
----
----
-
-##  Skills
-- **GIS Tools**: ArcGis, QGIS
-- **Remote Sensing**:  Google Earth Engine, Envi
-- **Languages**: Python(GDAL, rasterio, scikit-learn), HTML, CSS and Javascript(Basic)  
-- **Other**: Git 
----
-
-##  Selected Projects
-- **Flood Detection with GEE** – Automated flood mapping workflows using satellite imagery.
-- **Land Use Classification** – Classifies land cover types using supervised machine learning.
-- **Portfolio Website** – Built with HTML/CSS. (Link in my pinned projects)
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GIS-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
+## 🚀 About Me  
+- 🎓 Geomatics Engineer passionate about spatial data analysis & visualization  
+- 🌍 Specializing in **GIS, Remote Sensing & Machine Learning**  
+- 🛰 Skilled in **Google Earth Engine** for satellite data processing  
+- 📊 Experience in **Land Use Classification, NDVI, Change Detection, Flood Mapping**  
+- 📬 Reach me: **ashokadhikari@example.com**  
+
 ---
 
-##  Connect
-- [Portfolio](https://ashokadhikari.netlify.app/)
-- [LinkedIn](#) • [Email](mailto:ashokadhikari076@gmail.com)
+## 🛠 Tech Stack  
+- **GIS & Remote Sensing:** Google Earth Engine, ArcGIS, QGIS  
+- **Programming:** Python, JavaScript, HTML/CSS  
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Others:** Git, Markdown, Jupyter Notebook  
 
-## 📈 GitHub Stats
-![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokAdhikari21&show_icons=true)
+---
 
-<!--
-**AshokAdhikari21/AshokAdhikari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects  
+🌊 **[Flood Detection using Google Earth Engine](https://github.com/YourRepo/FloodDetection)**  
+Automated flood extent mapping using Sentinel-1 SAR data.  
 
-Here are some ideas to get you started:
+🌿 **[Land Use Classification Map](https://github.com/YourRepo/LandUseClassification)**  
+Supervised classification with high accuracy using Sentinel-2 imagery.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **[NDVI & Vegetation Health Monitoring](https://github.com/YourRepo/NDVI-Monitoring)**  
+Tracks vegetation trends for drought assessment and agricultural planning.  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshokAdhikari21&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshokAdhikari21&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ashokadhikari.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:ashokadhikari@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ **Pro Tip:** Keep your pinned repos updated so your profile always shows your latest and best work.
