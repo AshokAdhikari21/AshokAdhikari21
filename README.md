@@ -6,10 +6,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GIS-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-<img src="https://img.shields.io/badge/Remote%20Sensing-FF9800?style=for-the-badge&logo=satellite&logoColor=white" />
+ <img src="https://img.shields.io/badge/Remote%20Sensing-FF9800?style=for-the-badge&logo=satellite&logoColor=white" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
@@ -20,7 +19,10 @@
 - 🌍 Specializing in **GIS,QGIS, Remote Sensing**  
 - 🛰 Skilled in **Google Earth Engine** for satellite data processing  
 - 📊 Experience in **Land Use Classification, NDVI, Change Detection, Flood Mapping**  
-- 📬 Reach me: **ashokadhikari076@gmail.com**  
+- 📬 Reach me: **ashokadhikari076@gmail.com**
+- <a href="https://ashokadhikari.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+</a> 
 
 ---
 
