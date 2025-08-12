@@ -8,36 +8,29 @@
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/Remote%20Sensing-FF9800?style=for-the-badge&logo=satellite&logoColor=white" />
+
 </p>
 
 ---
 
 ## 🚀 About Me  
 - 🎓 Geomatics Engineer passionate about spatial data analysis & visualization  
-- 🌍 Specializing in **GIS, Remote Sensing & Machine Learning**  
+- 🌍 Specializing in **GIS,QGIS, Remote Sensing**  
 - 🛰 Skilled in **Google Earth Engine** for satellite data processing  
 - 📊 Experience in **Land Use Classification, NDVI, Change Detection, Flood Mapping**  
-- 📬 Reach me: **ashokadhikari@example.com**  
+- 📬 Reach me: **ashokadhikari076@gmail.com**  
 
 ---
 
 ## 🛠 Tech Stack  
 - **GIS & Remote Sensing:** Google Earth Engine, ArcGIS, QGIS  
-- **Programming:** Python, JavaScript, HTML/CSS  
+- **Programming:** Python, JavaScript, HTML/CSS (Basic) 
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Others:** Git, Markdown, Jupyter Notebook  
+- **Others:** Git, Jupyter Notebook  
 
 ---
-
-## 📌 Featured Projects  
-🌊 **[Flood Detection using Google Earth Engine](https://github.com/YourRepo/FloodDetection)**  
-Automated flood extent mapping using Sentinel-1 SAR data.  
-
-🌿 **[Land Use Classification Map](https://github.com/YourRepo/LandUseClassification)**  
-Supervised classification with high accuracy using Sentinel-2 imagery.  
-
-📊 **[NDVI & Vegetation Health Monitoring](https://github.com/YourRepo/NDVI-Monitoring)**  
-Tracks vegetation trends for drought assessment and agricultural planning.  
 
 ---
 
