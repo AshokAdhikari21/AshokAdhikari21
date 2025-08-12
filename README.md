@@ -1,5 +1,15 @@
 ## Hi, I'm Ashok 👋
 **Geomatics Engineer | GIS & Remote Sensing | Python & Google Earth Engine**
+
+
+## 🌐 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://www.instagram.com/ashok__adhikari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AshokAdhikari21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://ashokadhikari.netlify.app/)
+
+---
 ---
 
 ##  Skills
@@ -16,14 +26,11 @@
 
 ---
 
-##  GitHub Stats
-![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokAdhikari21&show_icons=true)
-
 ---
 
 ##  Connect
 - [Portfolio](https://ashokadhikari.netlify.app/)
-- [LinkedIn](#) • [Email](mailto:youremail@example.com)
+- [LinkedIn](#) • [Email](mailto:ashokadhikari076@gmail.com)
 
 ## 📈 GitHub Stats
 ![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokAdhikari21&show_icons=true)
