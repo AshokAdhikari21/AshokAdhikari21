@@ -1,25 +1,32 @@
 ## Hi, I'm Ashok 👋
 **Geomatics Engineer | GIS & Remote Sensing | Python & Google Earth Engine**
+---
 
-🚀 I build reproducible workflows for land use classification, flood detection and remote sensing analysis.
+##  Skills
+- **GIS Tools**: ArcGis, QGIS
+- **Remote Sensing**:  Google Earth Engine, Envi
+- **Languages**: Python(GDAL, rasterio, scikit-learn), HTML, CSS and Javascript(Basic)  
+- **Other**: Git 
+---
 
-## 🔧 Tech
-- GIS: Google Earth Engine, QGIS, ArcGIS
-- Languages: Python, JavaScript
-- Tools: GDAL, rasterio, scikit-learn, git
+##  Selected Projects
+- **Flood Detection with GEE** – Automated flood mapping workflows using satellite imagery.
+- **Land Use Classification** – Classifies land cover types using supervised machine learning.
+- **Portfolio Website** – Built with HTML/CSS. (Link in my pinned projects)
 
-## 📌 Featured Projects
-- **Flood Detection with GEE** — automated flood maps using Sentinel-1. *(link to repo)*  
-- **Land Use Classification** — supervised classifier for land cover mapping. *(link to repo)*  
-- **Portfolio Website** — static site showcasing maps & reports. *(link)*
+---
+
+##  GitHub Stats
+![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokAdhikari21&show_icons=true)
+
+---
+
+##  Connect
+- [Portfolio](https://ashokadhikari.netlify.app/)
+- [LinkedIn](#) • [Email](mailto:youremail@example.com)
 
 ## 📈 GitHub Stats
 ![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokAdhikari21&show_icons=true)
-
-## 📫 Connect
-- Portfolio: https://your-portfolio-link
-- Email: your.email@example.com
-
 
 <!--
 **AshokAdhikari21/AshokAdhikari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
